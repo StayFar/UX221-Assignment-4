@@ -235,3 +235,10 @@
 [29-Mar-2024 02:51:57 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [29-Mar-2024 03:52:33 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
 [29-Mar-2024 03:52:33 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[29-Mar-2024 03:54:31 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[29-Mar-2024 03:56:47 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[29-Mar-2024 03:56:48 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[29-Mar-2024 03:58:39 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[29-Mar-2024 04:02:20 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[29-Mar-2024 04:15:02 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[29-Mar-2024 04:15:02 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
