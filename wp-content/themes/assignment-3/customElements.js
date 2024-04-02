@@ -54,5 +54,3 @@ class Instagram extends HTMLElement{
 }
 
 customElements.define("x-instagram", Instagram)
-
-
